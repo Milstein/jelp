@@ -1,0 +1,780 @@
+{
+  "businesses": [
+    {
+      "categories": [[
+        "Italian",
+        "italian"
+      ]],
+      "display_phone": "+1-415-252-9325",
+      "id": "poesia-san-francisco",
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/mFEAxAeTSgmmmzbMOxZbag/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["4072 18th St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "Hartford St & Castro St",
+        "display_address": [
+          "4072 18th St",
+          "(b/t Hartford St & Castro St)",
+          "Castro",
+          "San Francisco, CA 94114"
+        ],
+        "neighborhoods": ["Castro"],
+        "postal_code": "94114",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/poesia-san-francisco",
+      "name": "Poesia",
+      "phone": "4152529325",
+      "rating": 4,
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "review_count": 482,
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/W6U0X1Hnh4lxvVIWXJP7Nw/ms.jpg",
+      "snippet_text": "Excellent cozy environment, not extremely rowdy crowd, and definitely a great spot for a romantic date :) There are movies of\n\nWe tried their duck...",
+      "url": "http://www.yelp.com/biz/poesia-san-francisco"
+    },
+    {
+      "categories": [
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone": "+1-415-529-2797",
+      "id": "dantes-table-san-francisco",
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/l3c1QbD7RPZi0vfz7sSmnw/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["544 Castro St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "19th St & 18th St",
+        "display_address": [
+          "544 Castro St",
+          "(b/t 19th St & 18th St)",
+          "Castro",
+          "San Francisco, CA 94114"
+        ],
+        "neighborhoods": ["Castro"],
+        "postal_code": "94114",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/dantes-table-san-francisco",
+      "name": "Dante's Table",
+      "phone": "4155292797",
+      "rating": 3.5,
+      "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "review_count": 47,
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/mstI3Vo13AkINzvsDrM2lw/ms.jpg",
+      "snippet_text": "I think the food at this place is fine and decently priced, but what I really like about here is the patio. \n\nComing here on a nice afternoon and heading to...",
+      "url": "http://www.yelp.com/biz/dantes-table-san-francisco"
+    },
+    {
+      "categories": [
+        [
+          "Food Stands",
+          "foodstands"
+        ],
+        [
+          "Spanish",
+          "spanish"
+        ]
+      ],
+      "display_phone": "+1-415-940-5404",
+      "id": "tapeo-sf-san-francisco",
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/EksxfIsTSZ6FDq_SsYdhgw/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": [],
+        "city": "San Francisco",
+        "country_code": "US",
+        "display_address": [
+          "SoMa",
+          "San Francisco, CA 94103"
+        ],
+        "neighborhoods": ["SoMa"],
+        "postal_code": "94103",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/tapeo-sf-san-francisco",
+      "name": "Tapeo SF",
+      "phone": "4159405404",
+      "rating": 4,
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "review_count": 1,
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/RduG1qWl8kyomFDCyz8rfQ/ms.jpg",
+      "snippet_text": "Tonight was the debut of Tapeo SF, a brand new pop up vendor serving Spanish tapas. One of several vendors now taking turns at the temporary takeout spot...",
+      "url": "http://www.yelp.com/biz/tapeo-sf-san-francisco"
+    },
+    {
+      "categories": [
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone": "+1-415-626-1250",
+      "id": "the-sausage-factory-san-francisco",
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/BSMOEfiw14vaZzKrB3NV1Q/ms.jpg",
+      "is_claimed": false,
+      "is_closed": false,
+      "location": {
+        "address": ["517 Castro St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "19th St & 18th St",
+        "display_address": [
+          "517 Castro St",
+          "(b/t 19th St & 18th St)",
+          "Castro",
+          "San Francisco, CA 94114"
+        ],
+        "neighborhoods": ["Castro"],
+        "postal_code": "94114",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/the-sausage-factory-san-francisco",
+      "name": "The Sausage Factory",
+      "phone": "4156261250",
+      "rating": 3.5,
+      "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "review_count": 365,
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/atbziuUHtbZnarP95njIrA/ms.jpg",
+      "snippet_text": "Simple, savory Italian food for a good price. Try the Italian sausage patty sandwich, my mouth is watering just thinking about it. The downside? The front...",
+      "url": "http://www.yelp.com/biz/the-sausage-factory-san-francisco"
+    },
+    {
+      "categories": [
+        [
+          "Spanish",
+          "spanish"
+        ],
+        [
+          "Tapas Bars",
+          "tapas"
+        ],
+        [
+          "Wine Bars",
+          "wine_bars"
+        ]
+      ],
+      "display_phone": "+1-415-552-3000",
+      "id": "canela-san-francisco",
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/dYVAzCTfTtw8LLYHX_89Mw/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["2272 Market St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "Sanchez St & 16th St",
+        "display_address": [
+          "2272 Market St",
+          "(b/t Sanchez St & 16th St)",
+          "Castro",
+          "San Francisco, CA 94114"
+        ],
+        "neighborhoods": [
+          "Castro",
+          "Duboce Triangle"
+        ],
+        "postal_code": "94114",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/canela-san-francisco",
+      "name": "Canela",
+      "phone": "4155523000",
+      "rating": 4,
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "review_count": 239,
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/C2gZLNyYonxmUny4mThFcA/ms.jpg",
+      "snippet_text": "We love this place, it just gets better. I realized tonight that we don't come often enough.\n\nThe food was amazing tonight - the most delicious gazpacho...",
+      "url": "http://www.yelp.com/biz/canela-san-francisco"
+    },
+    {
+      "categories": [[
+        "Pizza",
+        "pizza"
+      ]],
+      "display_phone": "+1-415-487-0777",
+      "id": "nizarios-pizza-san-francisco",
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/J0_lYM9hZ1t89e8ewt2jrw/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["4077 18th St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "Castro St & Hartford St",
+        "display_address": [
+          "4077 18th St",
+          "(b/t Castro St & Hartford St)",
+          "Castro",
+          "San Francisco, CA 94114"
+        ],
+        "neighborhoods": ["Castro"],
+        "postal_code": "94114",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/nizarios-pizza-san-francisco",
+      "name": "Nizario's Pizza",
+      "phone": "4154870777",
+      "rating": 3.5,
+      "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "review_count": 254,
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/BS4StaSpKBinKY0-jlqj2A/ms.jpg",
+      "snippet_text": "THE BEST pizza in the Castro & possibly San Fran in general. They're open late every night (2am or later) & it is the hottest spot on the weekends for...",
+      "url": "http://www.yelp.com/biz/nizarios-pizza-san-francisco"
+    },
+    {
+      "categories": [[
+        "Italian",
+        "italian"
+      ]],
+      "display_phone": "+1-415-282-4969",
+      "id": "ristorante-bacco-san-francisco",
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/yZHsIQILXKFJoSKHi_qlZQ/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["737 Diamond St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "24th St & Elizabeth St",
+        "display_address": [
+          "737 Diamond St",
+          "(b/t 24th St & Elizabeth St)",
+          "Noe Valley",
+          "San Francisco, CA 94114"
+        ],
+        "neighborhoods": ["Noe Valley"],
+        "postal_code": "94114",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/ristorante-bacco-san-francisco",
+      "name": "Ristorante Bacco",
+      "phone": "4152824969",
+      "rating": 4,
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "review_count": 277,
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/3F8480HGItZ1zBYElPOirQ/ms.jpg",
+      "snippet_text": "Was here for a dinner date with my husband, and we chose it because of good reviews on Yelp.\n\n**Food: 5 star - We ordered a crab meat tomato sauce pasta,...",
+      "url": "http://www.yelp.com/biz/ristorante-bacco-san-francisco"
+    },
+    {
+      "categories": [[
+        "Italian",
+        "italian"
+      ]],
+      "display_phone": "+1-415-512-0300",
+      "id": "la-briciola-san-francisco",
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/93v3fGd_IMP0UIpbs9dRyQ/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["489 3rd St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "Stillman St & Bryant St",
+        "display_address": [
+          "489 3rd St",
+          "(b/t Stillman St & Bryant St)",
+          "SoMa",
+          "San Francisco, CA 94107"
+        ],
+        "neighborhoods": [
+          "SoMa",
+          "Mission Bay"
+        ],
+        "postal_code": "94107",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/la-briciola-san-francisco",
+      "name": "La Briciola",
+      "phone": "4155120300",
+      "rating": 4,
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "review_count": 543,
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/12gVuYjzl5K32wtDG4ZlKw/ms.jpg",
+      "snippet_text": "We found this place on Yelp, which is probably the only way anyone ever finds it.  The location is bizarre, but the food was delicious, the atmosphere was...",
+      "url": "http://www.yelp.com/biz/la-briciola-san-francisco"
+    },
+    {
+      "categories": [
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Wine Bars",
+          "wine_bars"
+        ]
+      ],
+      "display_phone": "+1-415-829-2024",
+      "id": "uva-enoteca-san-francisco",
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/qm4s0NGiyC__K5Wk55YU0w/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["568 Haight St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "Fillmore St & Steiner St",
+        "display_address": [
+          "568 Haight St",
+          "(b/t Fillmore St & Steiner St)",
+          "Lower Haight",
+          "San Francisco, CA 94117"
+        ],
+        "neighborhoods": ["Lower Haight"],
+        "postal_code": "94117",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/uva-enoteca-san-francisco",
+      "name": "Uva Enoteca",
+      "phone": "4158292024",
+      "rating": 4,
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "review_count": 605,
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/DqlUwfkNG08ozxHp7mcUtQ/ms.jpg",
+      "snippet_text": "A friend and I had a Bloomspot for brunch here, and it was totally worth it. We both got their slow-cooked egg dishes, which were very generously portioned...",
+      "url": "http://www.yelp.com/biz/uva-enoteca-san-francisco"
+    },
+    {
+      "categories": [
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Seafood",
+          "seafood"
+        ]
+      ],
+      "display_phone": "+1-415-550-8114",
+      "id": "la-ciccia-san-francisco",
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/lRTOZiflW9lsVdYBk6G7tQ/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["291 30th St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "Chenery St & Church St",
+        "display_address": [
+          "291 30th St",
+          "(b/t Chenery St & Church St)",
+          "Noe Valley",
+          "San Francisco, CA 94131"
+        ],
+        "neighborhoods": ["Noe Valley"],
+        "postal_code": "94131",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/la-ciccia-san-francisco",
+      "name": "La Ciccia",
+      "phone": "4155508114",
+      "rating": 4.5,
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "review_count": 625,
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/9pJkzHZHhWGUEc6mT6GxMA/ms.jpg",
+      "snippet_text": "Fantastico!  I just may have new favorite Italian restaurant in San Francisco!  Was looking for a late night eatery not too far from SFO airport, and found...",
+      "url": "http://www.yelp.com/biz/la-ciccia-san-francisco"
+    },
+    {
+      "categories": [[
+        "Italian",
+        "italian"
+      ]],
+      "display_phone": "+1-415-920-9904",
+      "id": "pasta-pomodoro-san-francisco-15",
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/OKF5RBfhevu3l_AnUlEG2A/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["4000 24th St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "Noe St & Castro St",
+        "display_address": [
+          "4000 24th St",
+          "(b/t Noe St & Castro St)",
+          "Noe Valley",
+          "San Francisco, CA 94114"
+        ],
+        "neighborhoods": ["Noe Valley"],
+        "postal_code": "94114",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/pasta-pomodoro-san-francisco-15",
+      "name": "Pasta Pomodoro",
+      "phone": "4159209904",
+      "rating": 3.5,
+      "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "review_count": 218,
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/rQYMHws9O2g4fww3vMWgZA/ms.jpg",
+      "snippet_text": "Pasta Pomodoro is a brand that I cannot live without. On a side note, I have friends from Japan, who have only been there few times while visiting US,...",
+      "url": "http://www.yelp.com/biz/pasta-pomodoro-san-francisco-15"
+    },
+    {
+      "categories": [[
+        "Italian",
+        "italian"
+      ]],
+      "display_phone": "+1-415-221-0305",
+      "id": "bella-trattoria-san-francisco",
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/MRMJrYkUmRX8eorw41B7LA/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["3854 Geary Blvd"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "4th Ave & 2nd Ave",
+        "display_address": [
+          "3854 Geary Blvd",
+          "(b/t 4th Ave & 2nd Ave)",
+          "Inner Richmond",
+          "San Francisco, CA 94118"
+        ],
+        "neighborhoods": ["Inner Richmond"],
+        "postal_code": "94118",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/bella-trattoria-san-francisco",
+      "name": "Bella Trattoria",
+      "phone": "4152210305",
+      "rating": 4,
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "review_count": 631,
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/7VuFSHwSVqvoBqbPvf4DBg/ms.jpg",
+      "snippet_text": "Went here for mine and my bfs 6 month (haha yeah I know)\nOH MY GOD this place should get six stars. We got there super early for our reservation (like 20...",
+      "url": "http://www.yelp.com/biz/bella-trattoria-san-francisco"
+    },
+    {
+      "categories": [[
+        "Italian",
+        "italian"
+      ]],
+      "display_phone": "+1-415-362-2774",
+      "id": "volare-trattoria-caffe-san-francisco",
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/d5mU3dDzgCyQ1lPVZ98rQQ/ms.jpg",
+      "is_claimed": false,
+      "is_closed": false,
+      "location": {
+        "address": ["561 Columbus Avenue"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "Green St & Stockton St",
+        "display_address": [
+          "561 Columbus Avenue",
+          "(b/t Green St & Stockton St)",
+          "Russian Hill",
+          "San Francisco, CA 94133"
+        ],
+        "neighborhoods": [
+          "Russian Hill",
+          "North Beach/Telegraph Hill"
+        ],
+        "postal_code": "94133",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/volare-trattoria-caffe-san-francisco",
+      "name": "Volare Trattoria Caffe",
+      "phone": "4153622774",
+      "rating": 3.5,
+      "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "review_count": 218,
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/UiEtOysSBwbnMK8srLkH4A/ms.jpg",
+      "snippet_text": "Service is NOT good... Waited for a server...waited for water.. waited for bread...waited to order... and so on... Really annoying \n\nWent here last night...",
+      "url": "http://www.yelp.com/biz/volare-trattoria-caffe-san-francisco"
+    },
+    {
+      "categories": [[
+        "Italian",
+        "italian"
+      ]],
+      "display_phone": "+1-415-543-5100",
+      "id": "54-mint-vineria-ristorante-san-francisco-2",
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/EMQFO5mZFcLs347xAMdw4g/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["16 Mint Plz"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "Jessie St",
+        "display_address": [
+          "16 Mint Plz",
+          "(b/t Jessie St)",
+          "Union Square",
+          "San Francisco, CA 94103"
+        ],
+        "neighborhoods": ["Union Square"],
+        "postal_code": "94103",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/54-mint-vineria-ristorante-san-francisco-2",
+      "name": "54 Mint - Vineria Ristorante",
+      "phone": "4155435100",
+      "rating": 3.5,
+      "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "review_count": 566,
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/NZyaJZrFgPmkKJil1Mat6Q/ms.jpg",
+      "snippet_text": "54 Mint has become one of my favorite little spots in the city.  The menu is always fresh and thoughtful with a focus on Roman specialties which is a rare...",
+      "url": "http://www.yelp.com/biz/54-mint-vineria-ristorante-san-francisco-2"
+    },
+    {
+      "categories": [[
+        "Italian",
+        "italian"
+      ]],
+      "display_phone": "+1-415-641-4500",
+      "id": "incanto-san-francisco",
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/aTBj0LYd4iedRu5r1Q4I7w/ms.jpg",
+      "is_claimed": false,
+      "is_closed": false,
+      "location": {
+        "address": ["1550 Church St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "28th St & Duncan St",
+        "display_address": [
+          "1550 Church St",
+          "(b/t 28th St & Duncan St)",
+          "Noe Valley",
+          "San Francisco, CA 94131"
+        ],
+        "neighborhoods": ["Noe Valley"],
+        "postal_code": "94131",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/incanto-san-francisco",
+      "name": "Incanto",
+      "phone": "4156414500",
+      "rating": 4,
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "review_count": 834,
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/AtL_wlZKFn2KABWNuKSiVw/ms.jpg",
+      "snippet_text": "My wife and I always wanted to try this place after hearing of Chris on top chef.  We came on a sunday and we did have reservation.  We didn't have to wait...",
+      "url": "http://www.yelp.com/biz/incanto-san-francisco"
+    },
+    {
+      "categories": [[
+        "Italian",
+        "italian"
+      ]],
+      "display_phone": "+1-415-956-5528",
+      "id": "specchio-ristorante-san-francisco",
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/UqEiedxdOXlMqREybqJPzw/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["2331 Mission St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "19th St & 20th St",
+        "display_address": [
+          "2331 Mission St",
+          "(b/t 19th St & 20th St)",
+          "Mission",
+          "San Francisco, CA 94110"
+        ],
+        "neighborhoods": ["Mission"],
+        "postal_code": "94110",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/specchio-ristorante-san-francisco",
+      "name": "Specchio Ristorante",
+      "phone": "4159565528",
+      "rating": 3.5,
+      "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "review_count": 500,
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/jeoI7IxzwKhVcF0FU8jzQA/ms.jpg",
+      "snippet_text": "Definitely a fan!\n\nService - I want to first remark on the outstanding friendly and super attentive service popping at this joint! By far, above and beyond...",
+      "url": "http://www.yelp.com/biz/specchio-ristorante-san-francisco"
+    },
+    {
+      "categories": [
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone": "+1-415-826-7000",
+      "id": "flour-water-san-francisco",
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/TyuQ_GIRnhOm6N3PQlVfRw/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["2401 Harrison St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "20th St & 21st St",
+        "display_address": [
+          "2401 Harrison St",
+          "(b/t 20th St & 21st St)",
+          "Mission",
+          "San Francisco, CA 94110"
+        ],
+        "neighborhoods": ["Mission"],
+        "postal_code": "94110",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/flour-water-san-francisco",
+      "name": "Flour + Water",
+      "phone": "4158267000",
+      "rating": 3.5,
+      "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+      "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+      "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+      "review_count": 1348,
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/ZCXoJZK1Ui9cxuIhIrKp-A/ms.jpg",
+      "snippet_text": "Everything is very fresh and summery to match the season.\n\nGot the fried egg with salad-the egg yolk pouring over the salad. Yum\n\nHamachi crudo with some...",
+      "url": "http://www.yelp.com/biz/flour-water-san-francisco"
+    },
+    {
+      "categories": [
+        [
+          "Italian",
+          "italian"
+        ],
+        [
+          "Bars",
+          "bars"
+        ],
+        [
+          "Pizza",
+          "pizza"
+        ]
+      ],
+      "display_phone": "+1-415-695-1199",
+      "id": "beretta-san-francisco",
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/EIfqJFiLLMvL-nWP-24qSQ/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["1199 Valencia St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "22nd St & 23rd St",
+        "display_address": [
+          "1199 Valencia St",
+          "(b/t 22nd St & 23rd St)",
+          "Mission",
+          "San Francisco, CA 94110"
+        ],
+        "neighborhoods": ["Mission"],
+        "postal_code": "94110",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/beretta-san-francisco",
+      "name": "Beretta",
+      "phone": "4156951199",
+      "rating": 4,
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "review_count": 2089,
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/H-PsafpkbBT4N6C87jgx-A/ms.jpg",
+      "snippet_text": "Excellent risotto and pizza! Oh and amazing drinks!\n\nFood and service are consistently good every time I come here.  Margherita pizza with burrata cheese is...",
+      "url": "http://www.yelp.com/biz/beretta-san-francisco"
+    },
+    {
+      "categories": [[
+        "Italian",
+        "italian"
+      ]],
+      "display_phone": "+1-415-565-0360",
+      "id": "farina-focaccia-and-cucina-italiana-san-francisco",
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/3kcW_vDHBHv1ldQXjnjnWA/ms.jpg",
+      "is_claimed": true,
+      "is_closed": false,
+      "location": {
+        "address": ["3560 18th St"],
+        "city": "San Francisco",
+        "country_code": "US",
+        "cross_streets": "Dearborn St & Linda St",
+        "display_address": [
+          "3560 18th St",
+          "(b/t Dearborn St & Linda St)",
+          "Mission",
+          "San Francisco, CA 94110"
+        ],
+        "neighborhoods": ["Mission"],
+        "postal_code": "94110",
+        "state_code": "CA"
+      },
+      "mobile_url": "http://m.yelp.com/biz/farina-focaccia-and-cucina-italiana-san-francisco",
+      "name": "Farina Focaccia & Cucina Italiana",
+      "phone": "4155650360",
+      "rating": 3,
+      "rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+      "rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+      "rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+      "review_count": 1047,
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/kDRAKOWa6RuTxsxz7NUj4g/ms.jpg",
+      "snippet_text": "I went here for Friday dinner with some coworkers. The ambiance is really nice, especially at night with the big front windows.\n\nThe focaccia in the bread...",
+      "url": "http://www.yelp.com/biz/farina-focaccia-and-cucina-italiana-san-francisco"
+    }
+  ],
+  "region": {
+    "center": {
+      "latitude": 37.7711611,
+      "longitude": -122.4286095
+    },
+    "span": {
+      "latitude_delta": 0.06357141999998817,
+      "longitude_delta": 0.07149229999998852
+    }
+  },
+  "total": 19
+}
